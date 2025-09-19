@@ -43,8 +43,8 @@
 - Forecasting demand / revenue for future festivals.  
 
 ## 🤝 Contribution
-- Agar koi naye plots ya metrics add karna ho, suggestions welcome.  
-- Bugs ya issues ho toh Issues tab me batao ya pull request bhejo.  
+- If you want to add new plots or metrics, suggestions are welcome.  
+- If there are any bugs or issues, please report them in the Issues tab or submit a pull request.  
 
 ## 📧 Contact
 Project by **Vikram Dubey**  
