@@ -1,7 +1,7 @@
 # Diwali Sales Analysis Project (Python & Google Colab)
 
 ## 📌 Project Overview
-Is project ka maksad hai **Diwali season sales data** ka analysis karna, trends samajhna aur business insights nikalna using Python. Ye Colab notebook ke through kiya gaya hai, jahan data cleaning, exploration aur visualization pe focus hai.
+“The purpose of this project is to analyze Diwali season sales data, understand trends, and derive business insights using Python. This has been done through a Colab notebook, with a focus on data cleaning, exploration, and visualization.”
 
 ## 🔗 Live Notebook
 [View & run the notebook on Google Colab](https://colab.research.google.com/github/vikramdubey123/Python-Diwali-Analysis-Project/blob/main/python_diwali_sales_analysis.ipynb)
