@@ -20,7 +20,7 @@ Is project ka maksad hai **Diwali season sales data** ka analysis karna, trends 
 - Jupyter / Google Colab environment  
 
 ## 🔍 Data Source & Preprocessing
-- Data source: **[Specify the data file(s) used, e.g. CSV / Excel]**  
+- Data source: **https://drive.google.com/file/d/14iqcsACMf4aj3ZYoWOR0oP69339HiNjy/view?usp=sharing**  
 - Cleaned for missing values, duplicates.  
 - Extracted / engineered features such as year, month, product category etc.  
 - Aggregation by time period / product / region etc.  
